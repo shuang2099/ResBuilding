@@ -17,7 +17,7 @@
 
 <p align="center">
   <a href="http://rescity-buildings.me:5055/"><strong>访问 ResBuildings 智能体 / Open the ResBuildings Agent</strong></a><br>
-  <a href="http://rescity-buildings.me:5055/">http://rescity-buildings.me:5055/</a>
+  <a href="http://rescity-buildings.me:5055/">https://rescity-buildings.me//</a>
 </p>
 
 ## 意见反馈 / Feedback
