@@ -20,6 +20,12 @@
   <a href="http://rescity-buildings.me:5055/">http://rescity-buildings.me:5055/</a>
 </p>
 
+## 在线访问 / Live Access
+
+<p align="center">
+  <a href="https://ks.wjx.com/vm/YDI8v1R.aspx"><strong>意见反馈 / Feedback</strong></a><br>
+</p>
+
 ## 演示视频 / Demo Videos
 
 | 中文演示 / Chinese Demo | English Demo |
