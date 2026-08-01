@@ -16,8 +16,8 @@
 ## 在线访问 / Live Access
 
 <p align="center">
-  <a href="http://rescity-buildings.me:5055/"><strong>访问 ResBuildings 智能体 / Open the ResBuildings Agent</strong></a><br>
-  <a href="http://rescity-buildings.me:5055/">https://rescity-buildings.me//</a>
+  <a href="https://rescity-buildings.me/"><strong>访问 ResBuildings 智能体 / Open the ResBuildings Agent</strong></a><br>
+  <a href="https://rescity-buildings.me/">https://rescity-buildings.me//</a>
 </p>
 
 ## 意见反馈 / Feedback
